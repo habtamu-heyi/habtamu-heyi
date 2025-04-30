@@ -79,7 +79,7 @@ Welcome! I'm Habtamu Heyi, a software developer with a strong focus on cybersecu
 
 ## 🔗 Connect with Me
 
-- 🌐 [LinkedIn](https://linkedin.com/in/habtamu-heyi)
+- 🌐 [LinkedIn]([https://linkedin.com/in/habtamu-heyi](https://www.linkedin.com/in/habtamu-wario-heyi-15bb74213/)
 - 📧 Email: habtewario147@gmail.com
 - 🗂️ Resume: 
 
