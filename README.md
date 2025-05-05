@@ -1,88 +1,92 @@
-# Penetration Testing & Secure Software Development Portfolio  
+<h1>Hi, I'm Habtamu! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Network Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-Welcome! I'm Habtamu Heyi, a software developer with a strong focus on cybersecurity and penetration testing. This portfolio showcases hands-on projects demonstrating skills in **ethical hacking**, **network security**, and **secure software development**, especially related to **port scanning**, **vulnerability analysis**, and **custom tool creation**.
+<h2>👨‍💻 Software Development Projects:</h2>
 
----
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ 
+  <h2>👨‍💻 Cyber Security Labs Projects:</h2>
 
-## 🧠 Core Skills Demonstrated
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-### 🔍 Penetration Testing
-- **Nmap**: Advanced port scanning and service enumeration (`nmap -sV -p- -A`)
-- **Nikto**: Web server vulnerability detection
-- **Gobuster**: Directory and file brute-forcing
-- **Metasploit**: Exploitation framework for known vulnerabilities
-- **Burp Suite**: Web application testing and proxy interception
-- **Wireshark**: Packet sniffing and network protocol analysis
 
-### 👨‍💻 Development & Automation
-- **Python**: Built custom port scanners, brute-force tools, and automation scripts
-- **Bash**: Automated reconnaissance scripts and workflow chains
-- **Secure Coding**: Preventing common vulnerabilities like SQLi, XSS, CSRF
-- **APIs & JSON**: Built and secured REST APIs using Flask/FastAPI
+<h2>👨‍💻 Network Engineering projects:</h2>
 
----
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ 
+    
+<h2>📺 Popular YouTube Videos</h2>
 
-## 📁 Projects
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-### 1. 🛰️ `smart-port-scanner`
-- **Description**: Custom-built Python scanner that performs multithreaded TCP scans and banner grabbing.
-- **Highlights**:
-  - Uses `socket` and `threading` libraries
-  - Auto-detects open ports and common services
-  - JSON output for automation
-- **Skills**: Python, Networking, Port Scanning
+<h2> 🤳 Connect with me:</h2>
 
-### 2. 🌐 `vuln-web-lab`
-- **Description**: A self-hosted vulnerable web app (similar to DVWA) for practicing XSS, SQLi, and CSRF.
-- **Built With**: Flask + SQLite (intentionally vulnerable)
-- **Tools Used**: Burp Suite, OWASP ZAP, SQLmap
-- **Skills**: Web App Security, Flask, Exploitation
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-### 3. 🔄 `auto-recon-bash`
-- **Description**: Bash script to automate Nmap scans, directory fuzzing, and Nikto scanning in one go.
-- **Skills**: Bash Scripting, Recon Automation
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
-### 4. 🧪 `metasploit-practice-notes`
-- **Description**: Exploit walkthroughs with real vulnerable VMs (e.g., Metasploitable2, TryHackMe rooms)
-- **Includes**:
-  - Exploitation steps
-  - Post-exploitation enumeration
-  - Screenshot logs
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
----
+Here are some ideas to get you started:
 
-## 📚 Labs & Write-ups
-
-> These demonstrate my understanding of the full kill chain, from recon to privilege escalation.
-
-- 🔸 [TryHackMe – Port Hacking Lab](https://tryhackme.com/)
-- 🔸 [HackTheBox – Open Ports Exploitation]
-- 🔸 Write-ups: Located in `/writeups/` with markdown docs and screenshots
-
----
-
-## 🧰 Tools & Technologies
-
-| Tool          | Use Case                      |
-|---------------|-------------------------------|
-| Nmap          | Network recon                 |
-| Nikto         | Web server scanning           |
-| Burp Suite    | Web proxy/interception        |
-| SQLmap        | SQL injection exploitation    |
-| Metasploit    | Exploitation & payloads       |
-| Python        | Tool development              |
-| Bash          | Recon automation              |
-| Wireshark     | Packet analysis               |
-| Flask         | Secure web development        |
-
----
-
-## 🔗 Connect with Me
-
-- 🌐 [LinkedIn]([https://linkedin.com/in/habtamu-heyi](https://www.linkedin.com/in/habtamu-wario-heyi-15bb74213/)
-- 📧 Email: habtewario147@gmail.com
-- 🗂️ Resume: 
-
----
-
-> 👨‍💻 Always hacking ethically, learning continuously, and building securely.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
