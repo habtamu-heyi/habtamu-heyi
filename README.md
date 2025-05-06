@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (python, Flask, API integrated (Youtube,  Open AI,  Google and Joshua project)</b>
-  - [Real Time most precise information displaying app ( demographoc,most common problems, prayer points]((https://github.com/habtamu-heyi/prayfornation.org) <b><i>(Potentially NSFW)</b></i>
+  - [Real-time app displaying the most accurate information, including demographics, most common national issues, and prayer points.]((https://github.com/habtamu-heyi/prayfornation.org) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
