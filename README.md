@@ -15,12 +15,14 @@
   - [Network Port Scanner)](https://github.com/habtamu-heyi/PowerShell_Projects/tree/main/4_Network_Port_Scanner)
   - [Patch Compliance Dashboard)](https://github.com/habtamu-heyi/PowerShell_Projects/tree/main/5_Patch_Compliance_Dashboard)
     
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Intelligent Retail Suite AppLications# (Backend Tools: Flask, FlaskCors, SQLAlchemy,Pandas,Scikit-Learn,OpenAI SDK  GPT-powered, React, Axios, Tailwind CSS, Chart.js, IndexedDB )</b>
+  - [Retail inventory Optimizer](https://github.com/habtamu-heyi/IntelligentRetailSuite/tree/main/retail-inventory-optimizer)
+  - [Logistics route optimizer](https://github.com/habtamu-heyi/IntelligentRetailSuite/tree/main/Logistics_Route_Optimizer_Fullstack/logistics-route-optimizer)
+    
+  - [sales data analyzer](https://github.com/habtamu-heyi/IntelligentRetailSuite/tree/main/SalesDataAnalyzer_Fullstack/sales-data-analyzer)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Smart Point-of-Sale App)](https://github.com/habtamu-heyi/IntelligentRetailSuite/tree/main/SmartPOS_Fullstack/smart-pos-system/backend).
+  - [AI assistant customerbot)](https://github.com/habtamu-heyi/IntelligentRetailSuite/tree/main/AssistAI_CustomerBot_Fullstack/assistai-customerbot).
  
   <h2>👨‍💻 Cyber Security Labs Projects:</h2>
 
