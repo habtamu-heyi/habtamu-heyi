@@ -9,10 +9,12 @@
   - Oktagonn.tech is an innovative EdTech platform designed to transform access to educational content for technical colleges, community colleges, and industry-based training programs. It provides a smart, centralized space where educators and learners can connect over real-world, career-focused learning materials.(https://github.com/habtamu-heyi/oktagonn.tech) <b><i>(Potentially NSFW)</b></i>
   
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Defender Threat Hunter](https://github.com/habtamu-heyi/PowerShell_Projects/tree/main/1_Defender_Threat_Hunter)
+  - [USB Device Forensics)](https://github.com/habtamu-heyi/PowerShell_Projects/tree/main/2_USB_Device_Forensics)
+  - [Credential Spraying Simulator](https://github.com/habtamu-heyi/PowerShell_Projects/tree/main/3_Credential_Spraying_Simulator)
+  - [Network Port Scanner)](https://github.com/habtamu-heyi/PowerShell_Projects/tree/main/4_Network_Port_Scanner)
+  - [Patch Compliance Dashboard)](https://github.com/habtamu-heyi/PowerShell_Projects/tree/main/5_Patch_Compliance_Dashboard)
+    
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
