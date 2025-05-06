@@ -20,10 +20,11 @@
   - [Logistics route optimizer](https://github.com/habtamu-heyi/IntelligentRetailSuite/tree/main/Logistics_Route_Optimizer_Fullstack/logistics-route-optimizer)
     
   - [sales data analyzer](https://github.com/habtamu-heyi/IntelligentRetailSuite/tree/main/SalesDataAnalyzer_Fullstack/sales-data-analyzer)
-- <b>Python</b>
-  - [Smart Point-of-Sale App)](https://github.com/habtamu-heyi/IntelligentRetailSuite/tree/main/SmartPOS_Fullstack/smart-pos-system/backend).
+    - [Smart Point-of-Sale App)](https://github.com/habtamu-heyi/IntelligentRetailSuite/tree/main/SmartPOS_Fullstack/smart-pos-system/backend).
   - [AI assistant customerbot)](https://github.com/habtamu-heyi/IntelligentRetailSuite/tree/main/AssistAI_CustomerBot_Fullstack/assistai-customerbot).
  
+- <b>Python</b>
+  
   <h2>👨‍💻 Cyber Security Labs Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
