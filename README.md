@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python]((https://github.com/habtamu-heyi/Algorithm-Ds-practice))
+  - [Praciting DS & Algos in Python](https://github.com/habtamu-heyi/Algorithm-Ds-practice)
 - <b>Full Stack Web App (python, Flask, API integrated (Youtube,  Open AI,  Google and Joshua project)</b>
   - [Real-time app displaying the most accurate information, including demographics, most common national issues, and prayer points.]((https://github.com/habtamu-heyi/prayfornation.org) <b><i>(Potentially NSFW)</b></i>
   - Oktagonn.tech is an innovative EdTech platform designed to transform access to educational content for technical colleges, community colleges, and industry-based training programs. It provides a smart, centralized space where educators and learners can connect over real-world, career-focused learning materials.(https://github.com/habtamu-heyi/oktagonn.tech) <b><i>(Potentially NSFW)</b></i>
