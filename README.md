@@ -34,10 +34,9 @@
 - <b>Web App Audit Atomation</b>
   - [Web App audit atomation](https://github.com/habtamu-heyi/Cyber-Habtamu/tree/main/WebApp-Audit-Automation)
   
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Local Privilage Escalation</b>
+  - [Local Previlage Escalation Lab](https://github.com/habtamu-heyi/Cyber-Habtamu/tree/main/LocalPrivilegeEscalation-Lab)
+  
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
