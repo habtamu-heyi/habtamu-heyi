@@ -30,12 +30,10 @@
 - <b>Penetration testing lab</b>
   - [Password Hack project](https://github.com/habtamu-heyi/DoubleTrouble-Pentest/blob/main/DoubleTrouble-Pentest/README.md)
 - <b>Active Directory Lab</b>
-  - [active Directory Lab](https://github.com/habtamu-heyi/DoubleTrouble-Pentest/tree/main/ActiveDirectory-Lab) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [active Directory Lab](https://github.com/habtamu-heyi/DoubleTrouble-Pentest/tree/main/ActiveDirectory-Lab) 
+- <b>Web App Audit Atomation</b>
+  - [Web App audit atomation](https://github.com/habtamu-heyi/Cyber-Habtamu/tree/main/WebApp-Audit-Automation)
+  
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
