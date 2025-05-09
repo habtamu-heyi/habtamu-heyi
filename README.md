@@ -67,7 +67,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[youtube]: (https://www.youtube.com/@PrayForNations-mh4ip)
+[youtube]: https://www.youtube.com/@PrayForNations-mh4ip
 [instagram]: https://www.instagram.com/prayfornations/
 [linkedin]: https://www.linkedin.com/in/habtamu-wario-heyi-15bb74213/
 
