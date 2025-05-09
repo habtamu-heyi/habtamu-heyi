@@ -70,7 +70,7 @@
 
 [youtube]: (https://www.youtube.com/@PrayForNations-mh4ip)
 [instagram]: https://www.instagram.com/prayfornations/
-[linkedin]: https://linkedin.com/in/habtamu-heyi
+[linkedin]: (https://www.linkedin.com/in/habtamu-wario-heyi-15bb74213/)
 
 <!--
 **habtamu-heyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
